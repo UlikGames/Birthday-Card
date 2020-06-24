@@ -29,7 +29,7 @@ html, body {
 .card .text-container #head {
   font-family: 'Poppins', sans-serif;
   font-size: 1.5em;
-  margin: 40px auto 40px auto;
+  margin: 30px auto 30px auto;
 }
 
 .card p {
@@ -38,7 +38,7 @@ html, body {
   font-family: 'Montserrat Alternates', sans-serif;
   color: #331717;
   text-align: center;
-  margin: 30px auto 0px auto;
+  margin: 15px auto 0px auto;
 }
 
 .card .front {
@@ -328,8 +328,8 @@ html, body {
   padding: 8px;
   color: white;
   border-radius: 2px;
-  width: 300px;
-  margin: 12px auto;
+  width: 75px;
+  display: inline-block;
 }
 
 p.dr {
