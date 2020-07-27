@@ -330,6 +330,7 @@ html, body {
   border-radius: 2px;
   width: 75px;
   display: inline-block;
+  cursor: pointer;
 }
 
 p.dr {
